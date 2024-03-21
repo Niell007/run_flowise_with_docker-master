@@ -1,7 +1,8 @@
 ## How To Use
-1. .env.sample をコピーして .env を作成する
-2. .env のユーザー名パスワードを設定する
-3. `docker-compose up -d` を実行
-4. http://localhost:3000 にアクセス
+1. Copy `.env.sample` to create a new file named `.env`.
+2. Set the username and password in the `.env` file.
+3. Run `docker-compose up -d`.
+4. Access http://localhost:3000.
+
 ## Reference
-https://github.com/FlowiseAI/Flowise
+[Flowise GitHub Repository](https://github.com/FlowiseAI/Flowise)
